@@ -13,7 +13,7 @@ A User-Agent is an HTTP header that is a string of text. It tells the server wha
 
 4. What is soup.find_all() used for?
    
-In BeautifulSoup, soup.find_all(name, attrs, ...) is a method that finds all HTML tags that match the criteria you provide. For example, soup.find_all('h2', class_='title') finds every single <h2> tag that has an attribute class="title". It returns a list of all matching tags.
+In BeautifulSoup, soup.find_all(name, attrs, ...) is a method that finds all HTML tags that match the criteria you provide. For example, soup.find_all('h2', class_='title') finds every single < h2 > tag that has an attribute class="title". It returns a list of all matching tags.
 
 5. What are the risks of web scraping?
    
