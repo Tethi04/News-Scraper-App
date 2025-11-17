@@ -29,7 +29,7 @@ In BeautifulSoup, soup.find_all(name, attrs, ...) is a method that finds all HTM
    
 7. What is an HTML tag?
 
-An HTML tag is the fundamental building block of an HTML page. It's a keyword enclosed in angle brackets (< >) that defines how content should be formatted or structured. For example, <p> defines a paragraph, <h2> defines a heading, and <a> defines a link.
+An HTML tag is the fundamental building block of an HTML page. It's a keyword enclosed in angle brackets (< >) that defines how content should be formatted or structured. For example, <p> defines a paragraph, < h2 > defines a heading, and <a> defines a link.
 
 8. What does .text return in BeautifulSoup?
    
