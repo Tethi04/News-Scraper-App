@@ -1,8 +1,8 @@
 <div align="center">
 📰 NEWS-HEADLINE-SCRAPER 🤖
-<br>
+
 A Python bot that fetches the top headlines from NPR.
-</br>
+
 </div>
 Overview
 This project is a simple web scraper built in Python for Task 3 of the Python Developer Internship. It uses the requests library to fetch the HTML of the NPR (National Public Radio) website and BeautifulSoup to parse the HTML and extract all the top headlines.
