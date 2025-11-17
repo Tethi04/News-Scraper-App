@@ -1,0 +1,5 @@
+Ignore the generated headlines file
+headlines.txt
+Ignore Python cache files
+pycache/
+*.pyc
