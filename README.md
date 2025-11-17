@@ -9,7 +9,7 @@ Features
 
  * 🤖 Smart Fetching: Uses a User-Agent header to mimic a real browser and avoid being blocked.
    
- * 📰 HTML Parsing: Intelligently finds all <h2> tags with the class title to get clean headlines.
+ * 📰 HTML Parsing: Intelligently finds all < h2 > tags with the class title to get clean headlines.
    
  * 📂 File Output: Saves all found headlines to a headlines.txt file, with one headline per line.
    
